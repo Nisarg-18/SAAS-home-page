@@ -6,15 +6,20 @@ A home page for a SAAS company made using pure HTML and CSS
 ## What have I learnt from this project?
 - Flexbox
 - Positioning
+- Media Queries in CSS
 
 ## Time Taken for Completion
-- 5 hours
+- 6 hours
 
 ### Checkout the Project here : [saas-services](https://saas-services.netlify.app/)
 
 ## Output
+
+## Desktop View
 ![output](output.png)
 
+## Mobile View
+![mobile](mobile.png)
 
 Made with ❤️ by Nisarg Shah
 
